@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetests\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|solutionrelative:evaluationsamplecodetests\\htmlformathelpertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|solutionrelative:evaluationsamplecodetests\\baptizmtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetests\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|solutionrelative:evaluationsamplecodetests\\mathoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|solutionrelative:evaluationsamplecodetests\\phonenumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecodetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC752480-AB48-4454-91AF-17B462161E7A}|EvaluationSampleCodeTests\\EvaluationSampleCodeTests.csproj|solutionrelative:evaluationsamplecodetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\htmlformathelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\baptizm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\baptizm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\lolop\\onedrive\\bureau\\mns_cours\\devops\\evaluationdevops2\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathOperationsTests.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\MathOperationsTests.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTests\\MathOperationsTests.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\MathOperationsTests.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTests\\MathOperationsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:26:16.786Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\MathOperations.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\MathOperations.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\MathOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:12:22.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneNumberTests.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\PhoneNumberTests.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTests\\PhoneNumberTests.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\PhoneNumberTests.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTests\\PhoneNumberTests.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:22:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaptizmTests.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\BaptizmTests.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTests\\BaptizmTests.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\BaptizmTests.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTests\\BaptizmTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA2wBMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:23:47.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Baptizm.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\Baptizm.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\Baptizm.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\Baptizm.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\Baptizm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:12:22.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HtmlFormatHelperTests.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\HtmlFormatHelperTests.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTests\\HtmlFormatHelperTests.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\HtmlFormatHelperTests.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTests\\HtmlFormatHelperTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:24:14.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HtmlFormatHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\HtmlFormatHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:12:22.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\PhoneNumber.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\PhoneNumber.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:12:22.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCodeTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\lolop\\OneDrive\\Bureau\\MNS_cours\\DevOps\\EvaluationDevOps2\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCodeTests\\UnitTest1.cs",
+              "RelativeToolTip": "EvaluationSampleCodeTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:20:51.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
